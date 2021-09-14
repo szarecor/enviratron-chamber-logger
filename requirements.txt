@@ -1,0 +1,4 @@
+lxml==4.6.3
+python-json-logger==2.0.2
+requests==2.26.0
+PyYAML==5.4.1
