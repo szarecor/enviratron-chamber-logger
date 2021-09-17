@@ -1,4 +1,4 @@
 
 chambers: [1, 2, 3, 4, 6]
-log_directory: ./logs_V2
+log_directory: /home/appuser/chamber_logs
 

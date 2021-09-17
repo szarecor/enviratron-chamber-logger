@@ -1,0 +1,6 @@
+* * * * * /home/appuser/logger.sh /home/appuser/logger.yml >> /home/appuser/cron.log 2>&1
+#* * * * * /usr/local/bin/python3.8 -m enviratron_logger.enviratron_logger /home/appuser/logger.yml >> /home/appuser/cron.log 2>&1
+#* * * * * enviratronlogger /home/appuser/logger.yml >> /home/appuser/cron.log 2>&1
+# An empty line is required at the end of this file for a valid cron file.
+
+

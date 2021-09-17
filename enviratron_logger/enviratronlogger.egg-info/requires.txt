@@ -1,4 +1,4 @@
-lxml
+PyYAML
+lxml>=3.8.0
 python-json-logger
 requests
-PyYAML

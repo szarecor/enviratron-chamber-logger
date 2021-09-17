@@ -40,4 +40,7 @@ Here's an example log file entry:
 
 ## Example Usage
 
-The logger can be called like so: ```python -m enviratron_logger```
+The logger can be called like so: ```python -m enviratron_logger <my_config.yml>```
+
+The yaml config has an extremely minimal structure and is not absolutely required. If the config file is not specified, the default chamber list is ALL chambers and the default location for the log files is the current directory.
+
